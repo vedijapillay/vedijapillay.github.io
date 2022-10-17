@@ -16,4 +16,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[vbp23@cornell.edu](mailto:email@domain.com)
+[vbp23@cornell.edu](mailto:vbp23@cornell.edu)
