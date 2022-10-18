@@ -2,10 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-title: Personal
-permalink: /personal/
-title: Professional
-permalink: /professional/
 ---
 
 Some information about you!
